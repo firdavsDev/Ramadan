@@ -1,5 +1,16 @@
 # Happy Ramadan 😇
 
+```
+Ramadan Calendar(2024).
+
+Assalamu alaikum👋 Ramadan Mubarak. 
+Wishing you a blessed and Happy Ramadan! 
+Data about times in this month is extremely important. 
+That's why I transferred this information to the **UI** interface. 
+This **site** will benefit everyone!
+**Author: Davronbek_Dev**
+```
+
 <h2>Ro‘za tutish (saharlik, og‘iz yopish) duosi</h2>
 <p>نَوَيْتُ أَنْ أَصُومَ صَوْمَ شَهْرَ رَمَضَانَ مِنَ الْفَجْرِ إِلَى الْمَغْرِبِ، خَالِصًا
     لِلهِ تَعَالَى أَللهُ أَكْبَرُ<br>
