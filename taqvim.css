@@ -25,7 +25,7 @@ body,
 }
 @font-face {
     font-family: 'ramadan';
-    src: url(./IndieFlower-Regular.ttf);
+    src: url(./fonts/IndieFlower-Regular.ttf);
 }
 html{
     scroll-behavior: smooth;
@@ -148,7 +148,7 @@ tr > td {
     position: absolute;
     left: 22%;
     right: 45%;
-    top: -10%;
+    top: -5%;
     z-index: 2;
 }
 .ground .img2 {
@@ -213,10 +213,10 @@ tr > td {
     animation-delay: 0s;
     background-image: url('img/stars.png');
     animation: animate 15s ease-in-out infinite;
-    height: 330px;
+    height: 300px;
     z-index: 1;
    position: absolute;
-   background-size: 300px;
+   background-size: 330px;
    top: 0;
    width: 100%;
 }

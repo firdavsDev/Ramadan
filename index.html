@@ -27,82 +27,59 @@
         </div>
         <div class="stars"></div>
         <div class="area">
-            <h1 class="date">Saharlik: <span class="sun"></span></h1>
-            <h1 class="dates"> <br> Iftorlik: <span class="mid"></span></h1>
+            <h1 class="date">Saharlik:
+                <span class="sun" id="sun">
+                    
+                </span>
+            </h1>
+            <h1 class="dates">
+                <br>
+                Iftorlik:
+                <span class="mid" id="mid">
+                    
+                </span>
+            </h1>
         </div>
         <div class="text">
             <p>Ramazon</p>
-            <p> <b>2024 </b> Muborak bo'lsin!</p>
+            <p> 
+                <span id="ramdan_day"></span> Muborak bo'lsin!
+            </p>
         </div>
         <div class="container">
             <div class="ups">
                 <div class="custom-select" style="width: 10px; margin-bottom: 10px; display: flex;">
                     <select name="region" class="region" id="regions">
-                        <option value="4">Angren</option>
-                        <option value="2">Chinoz</option>
-                        <option value="5">Bekobod</option>
-                        <option value="3">Bishkek</option>
-                        <option value="7">Buloqboshi</option>
-                        <option value="8">Burchmulla</option>
-                        <option value="6">Buxoro</option>
-                        <option value="5">Guliston</option>
-                        <option value="10">Denov</option>
-                        <option value="11">Dehqonobod</option>
-                        <option value="12">Do'stlik</option>
-                        <option value="13">Dushanbe</option>
-                        <option value="14">Jambul</option>
-                        <option value="15">Andijon</option>
-                        <option value="16">Jizzax</option>
-                        <option value="17">Jomboy</option>
-                        <option value="18">Zarafshon</option>
-                        <option value="19">Zomin</option>
-                        <option value="20">Kattaqo'rg'on</option>
-                        <option value="21">Koson</option>
-                        <option value="22">Kosonsoy</option>
-                        <option value="23">Marg'ilon</option>
-                        <option value="24">Muborak</option>
-                        <option value="25">Muynoq</option>
-                        <option value="26">Navoi</option>
-                        <option value="27">Namangan</option>
-                        <option value="28">Nukus</option>
-                        <option value="29">Nurota</option>
-                        <option value="30">Olot</option>
-                        <option value="31">Олтиариқ</option>
-                        <option value="32">Олтинкўл</option>
-                        <option value="33">Paxtaobod</option>
-
-
-                        <option value="37">Samarqand</option>
-
-                        <option value="40">Termiz</option>
-
                         <option value="1" selected>Toshkent</option>
-                        <option value="42">Turkiston</option>
-
-                        <option value="80">Urganch</option>
-                        <option value="46">Urgut</option>
-
-                        <option value="50">Farg'ona</option>
-                        <option value="51">Xiva</option>
-                        <option value="52">Xonobod</option>
-
-                        <option value="54">Xo'chand</option>
-
-                        <option value="56">Chimboy</option>
-                        <option value="57">chimkent</option>
-                        <option value="58">Chortoq</option>
-
-                        <option value="66">Qarshi</option>
-
-                        <option value="68">Qorakul</option>
-
-                        <option value="74">Quqon</option>
+                        <option value="2">Soon 🚀...</option>
                     </select>
                 </div>
+
                 <div class="table">
-                    <table id="tables" data-aos='fade-right' data-aos-duration="1000">
+                    <table id="tables" data-aos="fade-right" data-aos-duration="1000">
+                        <!-- <tbody>
+                            <tr>
+                                <th style="text-align:center;">Ro'za kunlari</th>
+                                <th style="text-align:center;">Aprel</th>
+                                <th style="text-align:center;">Hafta kunlari</th>
+                                <th style="text-align:center;">Saxarlik</th>
+                                <th style="text-align:center;">Iftorlik</th>
+
+                            </tr>
+                        </tbody>  -->
+   
                     </table>
-                    <table id="tableses" data-aos='fade-left' data-aos-duration="1000">
+                    <table id="tableses" data-aos="fade-left" data-aos-duration="1000">
+                        <tbody>
+                            <!-- <tr>
+                                <th style="text-align:center;">Ro'za kunlari</th>
+                                <th style="text-align:center;">Aprel-May</th>
+                                <th style="text-align:center;">Hafta kunlari</th>
+                                <th style="text-align:center;">Saxarlik </th>
+                                <th style="text-align:center;">Iftorlik </th>
+                            </tr>
+                        </tbody> -->
+                        
                     </table>
                 </div>
                 <div class="dua">
@@ -166,8 +143,9 @@
         </div>
     </div>
 </footer>
-<script src="java.js"></script>
+<script src="./index.js"></script>
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <script>
     AOS.init();
+
 </script>
