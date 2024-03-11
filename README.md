@@ -21,3 +21,5 @@
     Ey mehribonlarning eng mehriboni,
     mening avvalgi va keyingi gunohlarimni mag‘firat qilgil!
 </p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/48ede26e-f516-4f26-825d-c5d463be322f/deploy-status)](https://app.netlify.com/sites/happyramazon/deploys)
