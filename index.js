@@ -221,7 +221,7 @@ function createFirstTable() {
     // set the cell's innerHTML
     cell1.innerHTML = "Ro'za kunlar";
     var cell2 = row.insertCell(1);
-    cell2.innerHTML = "Aprel";
+    cell2.innerHTML = "Mart";
     var cell3 = row.insertCell(2);
     cell3.innerHTML = "Hafta kunlari";
     var cell4 = row.insertCell(3);
@@ -272,7 +272,7 @@ function createSecondTable() {
     // set the cell's innerHTML
     second_cell1.innerHTML = "Ro'za kunlar";
     var second_cell2 = second_row.insertCell(1);
-    second_cell2.innerHTML = "Aprel/Mart";
+    second_cell2.innerHTML = "Mart/Aprel";
     var second_cell3 = second_row.insertCell(2);
     second_cell3.innerHTML = "Hafta kunlari";
     var second_cell4 = second_row.insertCell(3);
