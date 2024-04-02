@@ -1,4 +1,4 @@
-var tashkent_ramadan_days = [
+const tashkent_ramadan_days = [
     {
         "day": 1,
         "date": "11.03.2024",
@@ -148,63 +148,63 @@ var tashkent_ramadan_days = [
     },
     {
         "day": 22,
-        "date": "01.04.2024",
+        "date": "1.04.2024",
         "weekday": "Dushanba",
         "sehr": "04:46",
         "iftar": "18:50"
     },
     {
         "day": 23,
-        "date": "02.04.2024",
+        "date": "2.04.2024",
         "weekday": "Seshanba",
         "sehr": "04:44",
         "iftar": "18:51"
     },
     {
         "day": 24,
-        "date": "03.04.2024",
+        "date": "3.04.2024",
         "weekday": "Chorshanba",
         "sehr": "04:43",
         "iftar": "18:52"
     },
     {
         "day": 25,
-        "date": "04.04.2024",
+        "date": "4.04.2024",
         "weekday": "Payshanba",
         "sehr": "04:40",
         "iftar": "18:53"
     },
     {
         "day": 26,
-        "date": "05.04.2024",
+        "date": "5.04.2024",
         "weekday": "Juma",
         "sehr": "04:38",
         "iftar": "18:54"
     },
     {
         "day": 27,
-        "date": "06.04.2024",
+        "date": "6.04.2024",
         "weekday": "Shanba",
         "sehr": "04:36",
         "iftar": "18:56"
     },
     {
         "day": 28,
-        "date": "07.04.2024",
+        "date": "7.04.2024",
         "weekday": "Yakshanba",
         "sehr": "04:34",
         "iftar": "18:57"
     },
     {
         "day": 29,
-        "date": "08.04.2024",
+        "date": "8.04.2024",
         "weekday": "Dushanba",
         "sehr": "04:32",
         "iftar": "18:58"
     },
     {
         "day": 30,
-        "date": "09.04.2024",
+        "date": "9.04.2024",
         "weekday": "Seshanba",
         "sehr": "04:31",
         "iftar": "18:59"
